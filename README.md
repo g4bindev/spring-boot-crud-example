@@ -1,4 +1,4 @@
-# CRUD simples em Spring Boot
+# Client CRUD em Spring Boot
 
 Este é um exemplo de um simples CRUD que interaje diretamente com uma classe Client e faz as alterações necessárias para o gerenciamento dessa classe em um banco de dados.
 
